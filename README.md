@@ -13,7 +13,7 @@ Aspiring Data Scientist with over two years of experience in database management
 ![Skills](https://img.shields.io/badge/Skills-Writing-green)
 ![Skills](https://img.shields.io/badge/Skills-Comunication-yellow)
 
-<div align="right">
+<div align="left">
 About me:
 
 - 👀 Interested in starting a career in Data Science
