@@ -9,7 +9,7 @@ Aspiring Data Scientist with over two years of experience in database management
 ![Data Science](https://img.shields.io/badge/Data_Science-python-cyan)
 ![Data Science](https://img.shields.io/badge/Data_Science-pandas-purple)
 ![Data Science](https://img.shields.io/badge/Data_Science-SQL-seafoam)
-![Data Science](https://img.shields.io/badge/Data_Science-Bilingual-magenta)
+![Data Science](https://img.shields.io/badge/Skills-Bilingual-magenta)
 ![Skills](https://img.shields.io/badge/Skills-Writing-green)
 ![Skills](https://img.shields.io/badge/Skills-Comunication-yellow)
 
