@@ -5,3 +5,5 @@
 ![image alt](https://github.com/alevemau/alevemau/blob/4ef6027513e5072617047b54c8a32ece818a781d/Banner_github.png)
 
 Aspiring Data Scientist with over two years of experience in database management, aiming to apply my new skills as a Data Scientist in Machine Learning projects, data analysis, and visualization to solve problems using tools such as Python, Pandas, Scikit-learn, and SQL ☘️
+
+https://img.shields.io/badge/Data_Science-python-cyan
