@@ -2,6 +2,8 @@
 <h1 align="center"> Hello! I'm Alejandra Velazquez ✨</h1>
 <h2 align="center">🪲Welcome🐞</h2>
 
+![image alt](https://github.com/alevemau/alevemau/blob/4ef6027513e5072617047b54c8a32ece818a781d/Banner_github.png)
+
 ## About me
 
 - Data Science aspirant ☘️
