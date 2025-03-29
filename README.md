@@ -6,7 +6,4 @@
 
 ## About me
 
-- Aspiring Data Scientist with over two years of experience in database management, aiming to apply my new skills as a Data Scientist in Machine Learning projects, data analysis, and visualization to solve problems using tools such as Python, Pandas, Scikit-learn, and SQL ☘️
-
-
--->
+Aspiring Data Scientist with over two years of experience in database management, aiming to apply my new skills as a Data Scientist in Machine Learning projects, data analysis, and visualization to solve problems using tools such as Python, Pandas, Scikit-learn, and SQL ☘️
