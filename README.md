@@ -12,3 +12,10 @@ Aspiring Data Scientist with over two years of experience in database management
 ![Data Science](https://img.shields.io/badge/Data_Science-Bilingual-magenta)
 ![Skills](https://img.shields.io/badge/Skills-Writing-green)
 ![Skills](https://img.shields.io/badge/Skills-Comunication-yellow)
+
+About me:
+
+- 👀 Interested in starting a career in Data Science
+- 🌱 Certified Data Scientist
+- 💞️ Looking to collaborate with a great company
+- 📫 Direct contact -> alevem09@gmail.com
